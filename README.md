@@ -1,9 +1,11 @@
 # Online Movie Platform Project 
 It contains the source codes of the online film platform project we have developed for the software architecture course.
 
+```
 MUHAMMET MERT POLAT - 1601918
 ALPER TEMEL - 1606090
 GÜLÇE KARADAŞ - 1407390
+```
 
 ## Language: PHP
 ## Database: MySQL
